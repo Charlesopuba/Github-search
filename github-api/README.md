@@ -4,7 +4,7 @@
 Charles Opuba
 
 ## Set up and installation
-- Fork this repo at [] 
+- Fork this repo at [https://charlesopuba.github.io/Github-search/] 
 - Clone this repo Open your native terminal or on your preffered code editor
 - Type git clone,and paste the link
 
